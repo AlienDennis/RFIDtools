@@ -82,6 +82,28 @@ The app has been tested with these Android phones.  Feel free to contribute with
 
 - www.sneaktechnology.com
 
+Proxmark3 Rdv4.01
+https://sneaktechnology.com/product/proxmark3rdv4/
+
+ACS 122u
+https://sneaktechnology.com/product/acr122u-nfc-reader-writer-genuine-rfid-tools-android-app/
+
+ChameleonMini Rev E by ProxGrind
+https://sneaktechnology.com/product/chameleon-mini-rev-e-2017/
+
+PN532
+Coming Soon
+
+ChameleonMini Rev G
+Coming Soon
+
+OTG Cables (Micro)
+https://sneaktechnology.com/product/otg-adaptor-cable-micro-usb-2-0-15cm/
+
+OTG Cables (Type C)
+https://sneaktechnology.com/product/otg-adaptor-cable-type-c-usb-3-0-15cm/
+
+
 ## Support
 
 Open issues here relating to the source code,  other support questions use `android@rfidresearchgroup.com`
